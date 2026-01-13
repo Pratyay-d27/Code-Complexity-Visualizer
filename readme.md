@@ -18,13 +18,7 @@
 
 ---
 
-## ✨ Why This Project?
-
-> *“You analyzed code complexity using only JavaScript?”*
-
-Yes.
-
-This project demonstrates how **compiler-inspired static analysis techniques** can be implemented **entirely in the browser**, without any backend, database, or server-side processing.
+## ✨This project demonstrates how **compiler-inspired static analysis techniques** can be implemented **entirely in the browser**, without any backend, database, or server-side processing.
 
 It is designed to:
 - Look **backend-heavy**
