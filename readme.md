@@ -20,6 +20,8 @@
 
 ## ✨This project demonstrates how **compiler-inspired static analysis techniques** can be implemented **entirely in the browser**, without any backend, database, or server-side processing.
 
+## Overview
+Code Complexity Visualizer is a frontend-only static analysis tool that estimates time complexity, space complexity, and cyclomatic complexity for C and Java programs directly in the browser. Without executing the code or using any backend services, the application applies heuristic parsing techniques to analyze loop structures and decision points, and presents the results through animated visualizations.
 ---
 
 ## 🎯 Key Features
