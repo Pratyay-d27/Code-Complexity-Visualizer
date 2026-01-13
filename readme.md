@@ -20,13 +20,6 @@
 
 ## ✨This project demonstrates how **compiler-inspired static analysis techniques** can be implemented **entirely in the browser**, without any backend, database, or server-side processing.
 
-It is designed to:
-- Look **backend-heavy**
-- Feel **compiler-level**
-- Remain **frontend-only**
-
-Perfect for **placements, interviews, and portfolio differentiation**.
-
 ---
 
 ## 🎯 Key Features
@@ -66,10 +59,6 @@ Perfect for **placements, interviews, and portfolio differentiation**.
 
 ## 🎥 UI Highlights
 
-<p align="center">
-  <img src="assets/ui-glow.gif" width="80%">
-</p>
-
 ✔ Continuous **moving glow / ray effect**  
 ✔ Button hover, click compression & transitions  
 ✔ Smooth chart animations  
@@ -78,10 +67,6 @@ Perfect for **placements, interviews, and portfolio differentiation**.
 ---
 
 ## 📊 Visualized Metrics
-
-<p align="center">
-  <img src="assets/charts.png" width="80%">
-</p>
 
 ### 🔹 Time Complexity
 - O(1)
